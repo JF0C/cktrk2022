@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gpx version="1.1" creator="https://www.komoot.de" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <name>10 - Montefioralle -> Greve</name>
+    <name>10 - Montefioralle -> Quattro Strade, Greve.gpx</name>
     <author>
       <link href="https://www.komoot.de">
         <text>komoot</text>
@@ -10,7 +10,7 @@
     </author>
   </metadata>
   <trk>
-    <name>10 - Montefioralle -> Greve</name>
+    <name>10 - Montefioralle -> Quattro Strade, Greve.gpx</name>
     <trkseg>
       <trkpt lat="43.579604" lon="11.279840">
         <ele>494.281016</ele>
